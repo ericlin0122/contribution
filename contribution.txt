@@ -1,4 +1,3 @@
-!add-money @coolbeans#7733  5250
 !add-money @Luisao_FG#9391 5450
 !add-money @Sinoto#8827 5450
 !add-money @RC-Jio#6073 5450
