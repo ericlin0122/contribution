@@ -1,18 +1,3 @@
-!add-money @Luisao_FG#9391 5450
-!add-money @Sinoto#8827 5450
-!add-money @RC-Jio#6073 5450
-!add-money @Allure#1759 5450
-!add-money @wesscyder#2694 5450
-!add-money @shadowx#5582 5450
-!add-money @RivrRat#1447 5450
-!add-money @amyheejilee#7662 5390
-!add-money @Chocobo#4499 5350
-!add-money @klyyy123#4282 5300
-!add-money @綠豆Green bean#2578 5250
-!add-money @火靈龍#1272 5250
-!add-money @博明Tim#9851 5250
-!add-money @Sumini#4834 5250
-!add-money @GagaChalina#5575 5250
 !add-money @skynarr#1417 5250
 !add-money @coolbeans#7733  5250
 !add-money @Marv#3737 5250
@@ -20,31 +5,6 @@
 !add-money @IttyBitty#3257 5250
 !add-money @邪恶的大香蕉#2583 5250
 !add-money @Showbiz#6896 5250
-!add-money @Gunny#1139 5250
-!add-money @jlee611#8346 5250
-!add-money @Falie#0743 5250
-!add-money @ibubbletea#7880 5250
-!add-money @bonehead#9460 5250
 !add-money  5250
-!add-money  5250
-!add-money @Kaiyobe#6099 5250
-!add-money @bkillawatts#2954 5250
-!add-money @Vacheron#5634 5250
-!add-money @paulondemand#0323 5250
-!add-money @Drexx#4833 5250
-!add-money @Sergoob#7224 5250
 !add-money @mattyperea (Riiva)#5869 5250
 !add-money  5250
-!add-money  5250
-!add-money @SlapDash#7434 5250
-!add-money @MsCinuliiid#4011 5250
-!add-money @Ranka#0473 5250
-!add-money @Zip#1039 5250
-!add-money @SkilledSin#8467 5250
-!add-money @Gigas#2836 5250
-!add-money @Lightkeeper#1478 5250
-!add-money @BossLoRd#4057 5250
-!add-money @Steez#8555 5250
-!add-money  5250
-!add-money @joindota0824#3655 5250
-!add-money @BLOOP#7985 5250
