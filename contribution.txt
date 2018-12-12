@@ -1,45 +1,46 @@
-!add-money @Luisao_FG#9391 5250
-!add-money @Sinoto#8827 5250
-!add-money @RC-Jio#6073 5250
-!add-money @Allure#1759 5250
-!add-money @wesscyder#2694 5250
-!add-money @shadowx#5582 5250
+!add-money @GagaChalina#5575 10250
+!add-money @Vacheron#5634 10250
+!add-money @博明Tim#9851 5550
+!add-money @RC-Jio#6073 5450
+!add-money @Allure#1759 5450
+!add-money @IttyBitty#3257 5450
+!add-money @Vlenia#4266  5450
+!add-money @Sergoob#7224 5450
+!add-money @mattyperea (Riiva)#5869 5450
+!add-money @klyyy123#4282 5400
+!add-money @paulondemand#0323 5400
+!add-money @shadowx#5582 5380
+!add-money @Sinoto#8827 5350
+!add-money @綠豆Green bean#2578 5350
+!add-money @Gunny#1139 5350
+!add-money @MsCinuliiid#4011 5350
+!add-money @wesscyder#2694 5300
+!add-money @Chocobo#4499 5300
 !add-money @RivrRat#1447 5250
 !add-money @amyheejilee#7662 5250
-!add-money @Chocobo#4499 5250
-!add-money @klyyy123#4282 5250
-!add-money @綠豆Green bean#2578 5250
 !add-money @火靈龍#1272 5250
-!add-money @博明Tim#9851 5250
 !add-money @Sumini#4834 5250
-!add-money @GagaChalina#5575 5250
-!add-money @Vancy<3#3331  750
-!add-money @coolbeans#7733  5250
 !add-money @Marv#3737 5250
 !add-money @desolater#6003 5250
-!add-money @IttyBitty#3257 5250
-!add-money @MADAO#3789  750
-!add-money @Showbiz#6896 5250
-!add-money @Gunny#1139 5250
-!add-money @Vlenia#4266  5250
 !add-money @Falie#0743 5250
 !add-money @ibubbletea#7880 5250
-!add-money @bonehead#9460 5250
 !add-money @z1n#5652 5250
-!add-money @Kaiyobe#6099 5250
 !add-money @bkillawatts#2954 5250
-!add-money @Vacheron#5634 5250
-!add-money @paulondemand#0323 5250
 !add-money @Drexx#4833 5250
-!add-money @Sergoob#7224 5250
-!add-money @mattyperea (Riiva)#5869 5250
 !add-money @JShadow#6590  5250
 !add-money @SlapDash#7434 5250
-!add-money @MsCinuliiid#4011 5250
 !add-money @Zip#1039 5250
-!add-money @Forsaken1#4505  5250
-!add-money @Lagsalot#5995  5250
 !add-money @Lightkeeper#1478 5250
 !add-money @BossLoRd#4057 5250
-!add-money @Steez#8555 5250
-!add-money @EchoSono#2203 3750
+!add-money @Epistle#7473 5250
+!add-money @MADAO#3789  5250
+!add-money @Kaiyobe#6099 4800
+!add-money @Lagsalot#5995  4650
+!add-money @Vancy<3#3331  4500
+!add-money @coolbeans#7733  4500
+!add-money @EchoSono#2203 4500
+!add-money @Luisao_FG#9391 3600
+!add-money @Showbiz#6896 1070
+!add-money @ElevenEleven#8453 750
+!add-money @Khal'Noso#1074  
+!add-money @BLOOP#7985 
