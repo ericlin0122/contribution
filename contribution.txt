@@ -1,4 +1,4 @@
-!add-money @GagaChalina#5575 10500
+!add-money @GagaChalina#5575 5500
 !add-money @Vacheron#5634 5500
 !add-money @博明Tim#9851 5500
 !add-money @Vlenia#4266  5500
@@ -7,7 +7,7 @@
 !add-money @Tangier#1015 5500
 !add-money @Si#6883  5500
 !add-money @paulondemand#0323 5500
-!add-money @Sinoto#8827 10500
+!add-money @Sinoto#8827 5500
 !add-money @綠豆Green bean#2578 5500
 !add-money @Gunny#1139 5500
 !add-money @MsCinuliiid#4011 5500
@@ -43,5 +43,5 @@
 !add-money @Butterfly23#0849  5500
 !add-money @kingjoe#1259  5500
 !add-money @vanvely#0213  5500
-!add-money @dirtmcgirt#7462 1500
+!add-money @dirtmcgirt#7462 5500
 !add-money @Mimic#2836 5500
