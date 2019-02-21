@@ -32,7 +32,6 @@
 !add-money @EchoSono#2203 5500
 !add-money @DrkMastrGx#0187 5500
 !add-money @Showbiz#6896 5500
-!add-money @ElevenEleven#8453 5500
 !add-money @karajean625#1995 5500
 !add-money @Rhino#7891 5500
 !add-money @Icydragon#9066 5500
@@ -45,3 +44,4 @@
 !add-money @vanvely#0213  5500
 !add-money @dirtmcgirt#7462 5500
 !add-money @Mimic#2836 5500
+!add-money @Gash aka Peltch#1536 5500
