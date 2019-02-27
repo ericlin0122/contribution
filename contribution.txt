@@ -16,7 +16,6 @@
 !add-money @amyheejilee#7662 5500
 !add-money @火靈龍#1272 5500
 !add-money @Sumini#4834 5500
-!add-money @나이트한(KnightHan)#2862  5500
 !add-money @desolater#6003 5500
 !add-money @Rhino#7891 5500
 !add-money @ibubbletea#7880 5500
@@ -31,7 +30,6 @@
 !add-money @Kaiyobe#6099 5500
 !add-money @EchoSono#2203 5500
 !add-money @DrkMastrGx#0187 5500
-!add-money @Showbiz#6896 5500
 !add-money @karajean625#1995 5500
 !add-money @Rhino#7891 5500
 !add-money @Icydragon#9066 5500
