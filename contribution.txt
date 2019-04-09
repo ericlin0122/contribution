@@ -11,7 +11,7 @@
 !add-money @DrkMastrGx#0187 5500
 !add-money @EchoSono#2203 5500
 !add-money @FarFire#6720 5500
-!add-money @ForBacon#4457 0
+!add-money @ForBacon#4457 5500
 !add-money @GagaChalina#5575 5500
 !add-money @Gash aka Peltch#1536 5500
 !add-money @Gunny#1139 5500
@@ -34,7 +34,7 @@
 !add-money @@Showbiz#6896 0
 !add-money @Si#6883  5500
 !add-money @Sinoto#8827 5500
-!add-money @Slytherin#7335 0
+!add-money @Slytherin#7335 1500
 !add-money @Sumini#4834 5500
 !add-money @Tangier#1015 5500
 !add-money @tricʞɔıɹʇ#1887 5500
