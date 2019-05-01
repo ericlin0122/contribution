@@ -4,7 +4,6 @@
 !add-money @auroradark#0224 5500
 !add-money @bkillawatts#2954 5500
 !add-money @Butterfly23#0849  5500
-!add-money @ChaliceArtemisa#5332 0
 !add-money @Chocobo#4499 5500
 !add-money @desolater#6003 5500
 !add-money @dirtmcgirt#7462  5500
@@ -13,7 +12,7 @@
 !add-money @EchoSono#2203 5500
 !add-money @FarFire#6720 5500
 !add-money @ForBacon#4457 5500
-!add-money @GagaChalina#5575 10500
+!add-money @GagaChalina#5575 5500
 !add-money @Gash aka Peltch#1536 5500
 !add-money @Gunny#1139 5500
 !add-money @ibubbletea#7880 5500
@@ -21,19 +20,16 @@
 !add-money @InsomniaKyn#6469 5500
 !add-money @JShadow#6590  5500
 !add-money @Kaiyobe#6099 5500
-!add-money @karajean625#1995 0
 !add-money @kingjoe#1259  5500
 !add-money @lll#4312 5500
-!add-money @MADAO#3789  0
 !add-money @mattyperea (Riiva)#5869 5500
 !add-money @Mimic#2836  5500
 !add-money @MrButton#4968 5500
-!add-money @MsCinuliiid#4011 10500
+!add-money @MsCinuliiid#4011 5500
 !add-money @paulondemand#0323 5500
 !add-money @Qeequeg#4377 5500
 !add-money @RedArm#2780 5500
 !add-money @SaintAngela#9238 5500
-!add-money @@Showbiz#6896 0
 !add-money @Si#6883  5500
 !add-money @Sinoto#8827 5500
 !add-money @Sumini#4834 5500
@@ -47,3 +43,4 @@
 !add-money @博明Tim#9851 5500
 !add-money @火靈龍#1272 5500
 !add-money @綠豆Green bean#2578 5500
+!add-money @TreeTree#1672 1500
