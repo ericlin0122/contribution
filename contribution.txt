@@ -40,7 +40,7 @@
 !add-money @vanvely#0213  5500
 !add-money @wesscyder#2694 5500
 !add-money @z1n#5652 5500
-!add-money @博明Tim#9851 5500
+!add-money @博明Tim#9851 5501
 !add-money @火靈龍#1272 5500
 !add-money @綠豆Green bean#2578 5500
 !add-money @TreeTree#1672 1500
