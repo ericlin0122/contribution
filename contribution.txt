@@ -28,7 +28,7 @@
 !add-money @MsCinuliiid#4011 5500
 !add-money @paulondemand#0323 5500
 !add-money @RedArm#2780 5500
-!add-money @SaintAngela#9238 5500
+!add-money @SaintAngela#9238 0
 !add-money @Si#6883  5500
 !add-money @Sinoto#8827 5500
 !add-money @Sumini#4834 5500
@@ -45,6 +45,6 @@
 !add-money @TreeTree#1672 5500
 !add-money @reko 5500
 !add-money @panacea 5500
-!add-money @speedkills 0
+!add-money @whitegiant#2346 5500
 !add-money @den 0
 !add-money @madao 0
