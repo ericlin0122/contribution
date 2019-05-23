@@ -23,21 +23,20 @@
 !add-money @kingjoe#1259  5500
 !add-money @lll#4312 5500
 !add-money @mattyperea (Riiva)#5869 5500
-!add-money @Mimic#2836  5500
+!add-money @Mimic#2836  10500
 !add-money @MrButton#4968 5500
 !add-money @MsCinuliiid#4011 5500
 !add-money @paulondemand#0323 5500
 !add-money @RedArm#2780 5500
-!add-money @SaintAngela#9238 0
 !add-money @Si#6883  5500
 !add-money @Sinoto#8827 5500
-!add-money @Sumini#4834 5500
+!add-money @Sumini#4834
 !add-money @Tangier#1015 5500
 !add-money @tricʞɔıɹʇ#1887 5500
 !add-money @tricʞɔıɹʇ#1887 5500
 !add-money @Vacheron#5634 5500
 !add-money @vanvely#0213  5500
-!add-money @wesscyder#2694 5500
+!add-money @wesscyder#2694 10500
 !add-money @z1n#5652 5500
 !add-money @博明Tim#9851 5500
 !add-money @火靈龍#1272 5500
