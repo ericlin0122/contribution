@@ -46,4 +46,3 @@
 !add-money @panacea 5500
 !add-money @whitegiant#2346 5500
 !add-money @den 0
-!add-money @madao 0
