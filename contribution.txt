@@ -30,7 +30,7 @@
 !add-money @RedArm#2780 5500
 !add-money @Si#6883  5500
 !add-money @Sinoto#8827 5500
-!add-money @Sumini#4834
+!add-money @Sumini#4834 0
 !add-money @Tangier#1015 5500
 !add-money @tricʞɔıɹʇ#1887 5500
 !add-money @tricʞɔıɹʇ#1887 5500
