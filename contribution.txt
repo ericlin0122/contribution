@@ -1,47 +1,48 @@
-!add-money @109#6267 5500
-!add-money @amyheejilee#7662 5500
-!add-money @auroradark#0224 5500
-!add-money @bkillawatts#2954 5500
-!add-money @Butterfly23#0849  5500
-!add-money @Chocobo#4499 5500
-!add-money @desolater#6003 5500
-!add-money @dirtmcgirt#7462  5500
-!add-money @Drexx#4833 5500
-!add-money @DrkMastrGx#0187 5500
-!add-money @EchoSono#2203 5500
-!add-money @FarFire#6720 5500
-!add-money @ForBacon#4457 5500
-!add-money @GagaChalina#5575 5500
-!add-money @Gash aka Peltch#1536 5500
-!add-money @Gunny#1139 5500
-!add-money @ibubbletea#7880 5500
-!add-money @Icydragon#9066 5500
-!add-money @InsomniaKyn#6469 5500
-!add-money @JShadow#6590  5500
-!add-money @Kaiyobe#6099 5500
-!add-money @kingjoe#1259  5500
-!add-money @lll#4312 5500
-!add-money @mattyperea (Riiva)#5869 5500
-!add-money @Mimic#2836  5500
-!add-money @MsCinuliiid#4011 0
-!add-money @paulondemand#0323 5500
-!add-money @RedArm#2780 5500
-!add-money @Si#6883  5500
-!add-money @Sinoto#8827 5500
-!add-money @Tangier#1015 5500
-!add-money @Vacheron#5634 5500
-!add-money @vanvely#0213  5500
-!add-money @wesscyder#2694 5500
-!add-money @z1n#5652 5500
-!add-money @博明Tim#9851 5500
-!add-money @火靈龍#1272 5500
-!add-money @綠豆Green bean#2578 5500
-!add-money @TreeTree#1672 5500
-!add-money @reko 5500
-!add-money @panacea 5500
-!add-money @whitegiant#2346 5500
-!add-money @dEnnAliE#9015 5500
-!add-money @KBz295#8486 5500
-!add-money @Minato#6689 5500
-!add-money @Antimatter3.14#0940 5500
-!add-money @Kefir4ik#8669 5500
+!add-money @Hebe#6092 11000
+!add-money @amyheejilee#7662 22500
+!add-money @auroradark#0224 22500
+!add-money @Butterfly23#0849  22500
+!add-money @Misschief#4408 17000
+!add-money @desolater#6003 22500
+!add-money @NH#4348 17000
+!add-money @Drexx#4833 22500
+!add-money @DrkMastrGx#0187 22500
+!add-money @EchoSono#2203 22500
+!add-money @FarFire#6720 22500
+!add-money @ForBacon#4457 22500
+!add-money @GagaChalina#5575 22500
+!add-money @Gash aka Peltch#1536 22500
+!add-money @Gunny#1139 22500
+!add-money @ibubbletea#7880 22500
+!add-money @Icydragon#9066 22500
+!add-money @InsomniaKyn#6469 22500
+!add-money @JShadow#6590  22500
+!add-money @Kaiyobe#6099 22500
+!add-money @jlove04#3202 17000
+!add-money @lll#4312 22500
+!add-money @mattyperea (Riiva)#5869 22500
+!add-money @Mimic#2836  22500
+!add-moCinuliiid#4011 22500
+!add-money @paulondemand#0323 22500
+!add-money @RedArm#2780 22500
+!add-money @Si#6883  22500
+!add-money @Sinoto#8827 22500
+!add-money @Tangier#1015 22500
+!add-money @Vacheron#5634 22500
+!add-money @wesscyder#2694 22500
+!add-money @z1n#5652 22500
+!add-money @博明Tim#9851 22500
+!add-money @火靈龍#1272 22500
+!add-money @綠豆Green bean#2578 22500
+!add-money @TreeTree#1672 22500
+!add-money @korextron#4729 5500
+!add-money @panacea 22500
+!add-money @whitegiant#2346 22500
+!add-money @KBz295#8486 22500
+!add-money @Minato#6689 22500
+!add-money @Kefir4ik#8669 22500
+!add-money @kelxy
+!add-money @dirt
+!add-money @reko
+!add-money @banana
+!add-money @bkilla
